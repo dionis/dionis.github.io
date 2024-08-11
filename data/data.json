@@ -134,8 +134,30 @@
                     "name": "Pytorch"
                 }
             ],
-            "image": "/project_1_llm.jpg",
+            "image": "/project_3_llm.jpg",
             "github": "https://github.com/dionis/ABSA-DeepMultidomain"
+        },
+        {
+            "icon": "brain",
+            "title": "Retrieval Augmented Generation (RAG) system with Langchain, Ollama and Phi3 LLM",
+            "subtitle": "Use Langchain libraries for implement an Agent for interacting with a LLM  for AI system",
+            "description": "Use Langchain libraries for implement an Agent for interacting with a LLM  for AI system.",
+            "technologies": [
+               {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-pytorch-original",
+                    "name": "Pytorch"
+                },
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "LangChain"
+                }
+            ],
+            "image": "/project_1_llm.jpg",
+            "github": "https://github.com/dionis/customOllamaOnPC"
         },
         {
             "icon": "brain-circuit",
@@ -157,7 +179,7 @@
                 }
             ],
             "image": "/project_3_llm.jpg",
-            "github": "https://github.com/thomasanderson"
+            "github": "https://github.com/dionis/crewai_hotel_recomender"
         },
         {
             "icon": "notebook-pen",
@@ -188,24 +210,21 @@
             "title": "Phd in Computer Sciences",
             "subtitle": "Universidad Central \"Martha Abreu\", Las Villas (Santa Clara, Cuba)",
             "description": "Degree as Phd in Computer Sciences with a research about Deep and Lifelong Learning and Natural Language Processing (NLP)",
-            "date": "2024",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "date": "2024"
         },
         {
             "icon": "graduation-cap",
             "title": "MSc in Computer Sciences",
             "subtitle": "Universidad de Oriente (Santiago de Cuba, Cuba)",
             "description": "Degree as MSc in Computer Sciences with a research about Artificial Intelligence and Sentiment Analysis.",
-            "date": "2013",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "date": "2013"
         },
         {
             "icon": "graduation-cap",
             "title": "Bachelor of Computer Science",
             "subtitle": "Universidad de Oriente (Santiago de Cuba, Cuba)",
             "description": "Degree as Bachelor of Computer Science.",
-            "date": "2007",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "date": "2007"
         }
     ],
     "extras": [
