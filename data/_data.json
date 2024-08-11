@@ -240,9 +240,9 @@
         },
         {
             "icon": "brain",
-            "title": "Retrieval Augmented Generation (RAG) system with Langchain and LLM",
-            "subtitle": "Use LlamaIndex libraries for implement an Agent for interacting with a LLM  for AI system",
-            "description": "Use LlamaIndex libraries for implement an Agent for interacting with a LLM  for AI system.",
+            "title": "Retrieval Augmented Generation (RAG) system with Langchain, Ollama and Phi3 LLM",
+            "subtitle": "Use Langchain libraries for implement an Agent for interacting with a LLM  for AI system",
+            "description": "Use Langchain libraries for implement an Agent for interacting with a LLM  for AI system.",
             "technologies": [
                {
                     "icon": "devicon-python-plain",
@@ -253,17 +253,12 @@
                     "name": "Pytorch"
                 },
                 {
-                    "icon": "devicon-fastapi-plain",
-                    "name": "FastApi"
-                },
-                {
                     "icon": "devicon-python-plain",
                     "name": "LangChain"
                 }
             ],
             "image": "/project_1_llm.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
+            "github": "https://github.com/dionis/customOllamaOnPC"
         },
         {
             "icon": "brain-circuit",
