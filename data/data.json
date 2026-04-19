@@ -12,7 +12,7 @@
         "github": "https://github.com/dionis",
         "likedin": "https://www.linkedin.com/in/dionis-lopez-ramos/"
     },
-    "about": "I'm degree in Computer Sciences, with a degree in MSc and PhD in Computer Sciences and Software Developer with more of 15 experiences years. I worked in several software enterprise and freelancer.",
+    "about": "I'm degree in Computer Sciences, with a degree in MSc and PhD in Computer Sciences and Software Developer with more of 17 experiences years. I worked in several software enterprise and freelancer. With extensive experience as an AI Engineer and Researcher",
     "technologies": [
         {
             "icon": "devicon-java-plain",
@@ -395,7 +395,7 @@
                 },
                 {
                     "icon": "devicon-python-plain",
-                    "name": "LangChain"
+                    "name": "LLM and Generative AI"
                 }
             ],
             "image": "/project_2_llm.jpg",
@@ -408,24 +408,24 @@
             "title": "Phd in Computer Sciences",
             "subtitle": "Universidad Central \"Martha Abreu\", Las Villas (Santa Clara, Cuba)",
             "description": "Degree as Phd in Computer Sciences with a research about Deep and Lifelong Learning and Natural Language Processing (NLP)",
-            "date": "2024",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "date": "2024"
+          
         },
         {
             "icon": "graduation-cap",
             "title": "MSc in Computer Sciences",
             "subtitle": "Universidad de Oriente (Santiago de Cuba, Cuba)",
             "description": "Degree as MSc in Computer Sciences with a research about Artificial Intelligence and Sentiment Analysis.",
-            "date": "2013",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "date": "2013"
+           
         },
         {
             "icon": "graduation-cap",
             "title": "Bachelor of Computer Science",
             "subtitle": "Universidad de Oriente (Santiago de Cuba, Cuba)",
             "description": "Degree as Bachelor of Computer Science.",
-            "date": "2007",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "date": "2007"
+            
         }
     ],
     "extras": [
