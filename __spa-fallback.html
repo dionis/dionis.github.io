@@ -20,7 +20,16 @@ if (typeof document !== 'undefined') {
         document.documentElement.style.colorScheme = fallbackTheme;
     }
 }
-</script><link href="/assets/__reflex_global_styles-CjYbALWx.css" rel="stylesheet" type="text/css"/></head><body><section aria-label="Notifications alt+T" tabindex="-1" aria-live="polite" aria-relevant="additions text" aria-atomic="false"></section><div data-is-root-theme="true" data-accent-color="grass" data-gray-color="olive" data-has-background="true" data-panel-background="translucent" data-radius="full" data-scaling="100%" class="radix-themes css-0"><style data-emotion="css 17rg0dp">.css-17rg0dp{position:fixed;width:100vw;height:0;}</style><div title="Connection Error: " class="css-17rg0dp"></div><script>
+</script><link href="/assets/__reflex_global_styles-CjYbALWx.css" rel="stylesheet" type="text/css"/><style>/* Hide Reflex connection error on static GitHub Pages deploy */
+[title^="Connection Error"],
+[data-sonner-toaster] [data-type="error"],
+li[data-sonner-toast][data-type="error"] {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
+</style></head><body><section aria-label="Notifications alt+T" tabindex="-1" aria-live="polite" aria-relevant="additions text" aria-atomic="false"></section><div data-is-root-theme="true" data-accent-color="grass" data-gray-color="olive" data-has-background="true" data-panel-background="translucent" data-radius="full" data-scaling="100%" class="radix-themes css-0"><style data-emotion="css 17rg0dp">.css-17rg0dp{position:fixed;width:100vw;height:0;}</style><div title="Connection Error: " class="css-17rg0dp"></div><script>
               console.log(
                 "💿 Hey developer 👋. You can provide a way better UX than this " +
                 "when your app is loading JS modules and/or running `clientLoader` " +
